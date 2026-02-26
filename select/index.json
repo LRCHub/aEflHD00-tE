@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "ボッカデラベリタ (cover)",
+  "base_artist": "Gero",
+  "createdAt": "2026-02-26T15:53:20.944429Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ボッカデラベリタ",
+      "artist": "柊キライ",
+      "has_synced": false,
+      "path": "select/01_ボッカデラベリタ_柊キライ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ボッカデラベリタ",
+      "artist": "Chogakusei",
+      "has_synced": false,
+      "path": "select/02_ボッカデラベリタ_Chogakusei.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ボッカデラベリタ",
+      "artist": "25時、ナイトコードで。 feat. 朝比奈まふゆ&暁山瑞希",
+      "has_synced": true,
+      "path": "select/03_ボッカデラベリタ_25時、ナイトコードで。_feat._朝比奈まふゆ&暁山瑞希.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ボッカデラベリタ (feat. 朝比奈まふゆ&暁山瑞希)",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": false,
+      "path": "select/04_ボッカデラベリタ_(feat._朝比奈まふゆ&暁山瑞希)_25時、ナイトコードで。.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ボッカデラベリタ (feat. 朝比奈まふゆ",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/05_ボッカデラベリタ_(feat._朝比奈まふゆ_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ボッカデラベリタ",
+      "artist": "柊キライ",
+      "has_synced": true,
+      "path": "select/06_ボッカデラベリタ_柊キライ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ボッカデラベリタ / 柊キライ feat.flower",
+      "artist": "Hiiragi Kirai",
+      "has_synced": true,
+      "path": "select/07_ボッカデラベリタ___柊キライ_feat.flower_Hiiragi_Kirai.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ボッカデラベリタ",
+      "artist": "Kirai Hīragi",
+      "has_synced": true,
+      "path": "select/08_ボッカデラベリタ_Kirai_Hīragi.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ボッカデラベリタ",
+      "artist": "Hiiragi Kirai",
+      "has_synced": false,
+      "path": "select/09_ボッカデラベリタ_Hiiragi_Kirai.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ボッカデラベリタ",
+      "artist": "柊キライ",
+      "has_synced": true,
+      "path": "select/10_ボッカデラベリタ_柊キライ.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ボッカデラベリタ",
+      "artist": "柊キライ feat.朝比奈まふゆ,暁山瑞希",
+      "has_synced": true,
+      "path": "select/11_ボッカデラベリタ_柊キライ_feat.朝比奈まふゆ,暁山瑞希.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ボッカデラベリタ (cover)",
+      "artist": "Gero",
+      "has_synced": false,
+      "path": "select/pl_01_ボッカデラベリタ_(cover)_Gero.txt"
+    }
+  ]
+}
